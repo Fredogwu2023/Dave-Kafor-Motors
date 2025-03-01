@@ -1,1 +1,64 @@
 # Dave-Kafor-Motors
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dave-Kafor Motors Ltd - Toyota Vehicles</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #000; color: #fff; text-align: center; padding: 15px; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+        .vehicle-types { display: flex; justify-content: space-around; margin-top: 20px; }
+        .vehicle { text-align: center; }
+        .social-links { text-align: center; margin-top: 20px; }
+        .social-links a { margin: 0 10px; text-decoration: none; font-size: 20px; }
+        footer { background-color: #000; color: #fff; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png" alt="Toyota Logo" width="100">
+        <h1>Dave-Kafor Motors Ltd</h1>
+    </header>
+
+    <div class="container">
+        <h2>Company Profile</h2>
+        <p>Dave-Kafor Motors Ltd has been a trusted name in the automotive industry for over 25 years, specializing in the sale and distribution of high-quality Toyota vehicles. With a commitment to integrity and customer satisfaction, we provide reliable vehicles along with excellent after-sales support.</p>
+
+        <h2>Our Values</h2>
+        <ul>
+            <li><strong>Integrity Driven:</strong> We make available to you all technical and after-sales support.</li>
+            <li><strong>Convenience and Budget Friendly:</strong> We provide you with a Toyota vehicle of choice at an affordable price with flexible payment terms.</li>
+            <li><strong>Customer Focus:</strong> Our operations revolve around meeting customer needs and expectations.</li>
+            <li><strong>Lasting Relationship:</strong> We value our customers and build strong, lasting relationships through trust and service excellence.</li>
+        </ul>
+
+        <h2>Our Toyota Vehicle Selection</h2>
+        <div class="vehicle-types">
+            <div class="vehicle"><h3>Buses</h3><img src="bus_image_url" alt="Toyota Bus"></div>
+            <div class="vehicle"><h3>Pick-ups</h3><img src="pickup_image_url" alt="Toyota Pickup"></div>
+            <div class="vehicle"><h3>Trucks</h3><img src="truck_image_url" alt="Toyota Truck"></div>
+            <div class="vehicle"><h3>SUVs</h3><img src="suv_image_url" alt="Toyota SUV"></div>
+        </div>
+
+        <h2>Contact Us</h2>
+        <p><strong>Head Office:</strong> Plot 61, Amuwo Odofin Festac Access Link Road, Amuwo Odofin, Lagos. Tel: 08037164000, 08099864000, 08025086767, 08058555727.</p>
+        <p><strong>Nnewi Office:</strong> Opp. St. Stephens Anglican Church, Owerri Road, Umudim Nnewi, Anambra, Nigeria. Tel: 08037164000, 08056164692, 08033034231, 08090205040.</p>
+        <p><strong>Foreign Office:</strong> Eastern Logistics 2500 Blair Road, Carteret, New Jersey, USA. Tel: +91973339266581.</p>
+        <p><strong>Email:</strong> <a href="mailto:davekaformotors@yahoo.com">davekaformotors@yahoo.com</a></p>
+    </div>
+
+    <div class="social-links">
+        <h3>Follow Us</h3>
+        <a href="#" target="_blank">Instagram</a> | 
+        <a href="#" target="_blank">Facebook</a> | 
+        <a href="#" target="_blank">LinkedIn</a>
+    </div>
+
+    <footer>
+<p>designed by Lewisham Multi Solution Limited. visit us @ hhttps://www.lewishamultisolutions.com </p>
+        <p>&copy; 2025 D5ve-Kafor Motors Ltd. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
